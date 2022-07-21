@@ -109,7 +109,6 @@ function App() {
       <button onClick={handleClick} name='people'>People</button>
       <button onClick={handleClick} name='calendar'>Calendar</button>
       <button onClick={handleClick} name='emails'>Emails</button>
-    */ borrar este comentario mas tarde/*
       <SearchBar items={data} onItemSelected={()=>{}}/>
     
     </div>
